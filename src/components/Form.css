@@ -1,0 +1,21 @@
+#addgame input{
+    display: block;
+    color: red;
+    font-size: 25px;
+    padding: 8px;
+    
+   
+}#table{
+    border: 1px solid red;
+    margin: auto;
+}
+#addgame{
+    border:2px solid black;
+    width: 400px;
+    margin: auto;
+    padding: 8px;
+}
+#rating{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
